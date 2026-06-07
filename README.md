@@ -1,4 +1,3 @@
-````markdown
 # AI Resume Reviewer
 
 An AI-powered ATS Resume Analysis tool built using Python, Streamlit, and LLM APIs.
