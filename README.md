@@ -48,6 +48,3 @@ python -m streamlit run app.py
 * Multi-resume comparison
 * Resume keyword highlighting
 * Database-backed analysis history
-
-```
-```
