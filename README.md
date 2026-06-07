@@ -32,7 +32,17 @@ python -m streamlit run app.py
 
 ## Screenshots
 
-(Add screenshots here)
+### Home Page
+
+![Home Page](screenshots/home.png)
+
+### Resume Analysis
+
+![Analysis 1](screenshots/analysis1.png)
+
+![Analysis 2](screenshots/analysis2.png)
+
+![Analysis 3](screenshots/analysis3.png)
 
 ## Future Improvements
 
